@@ -5,9 +5,8 @@
 
 ## Personal Intro ##
 I took part as an individual and all code has been written and tested by myself. My approach can be viewed in the notebooks folder.<br>
-This is my first participation in a Kaggle competition and at the time of writing this README file, my submission is ranked in **place 269/1320** 
-with a **score of 0.88793**. <br>
-I will update these placements once the competition has ended on Feb. 1, 2024.
+This is my first participation in a Kaggle competition, my submission got ranked in **place 274/3632** (top 8%) 
+with a **score of 0.89762**. <br>
 <b3>
 The following is the official Kaggle description, as found here: <br>
 <div align='center'> https://www.kaggle.com/competitions/playground-series-s4e1/overview </div>
